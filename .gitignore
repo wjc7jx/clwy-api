@@ -1,0 +1,11 @@
+# 忽略 node_modules 文件夹及其内容
+node_modules/
+
+# 忽略 mysql.sock 文件
+data/mysql/mysql.sock
+
+# 忽略 .env 文件
+.env
+
+# 忽略data里的数据
+data/
